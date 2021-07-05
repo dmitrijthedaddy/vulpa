@@ -1,0 +1,5 @@
+reports/
+*.tmap
+*.xml
+
+__pycache__/
